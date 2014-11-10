@@ -1,4 +1,8 @@
 git init
 git log
 git status
-git add
+git add FILENAME
+git reest FILENAME
+git commit
+git --global user.email hkwon926@gmail.com
+git --global user.name "Hun Kwon"
